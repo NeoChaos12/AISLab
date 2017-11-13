@@ -1,4 +1,0 @@
-#This data directory should always remain empty except for the .gitignore file itself.
-.
-!.gitignore
-Relevant data will be downloaded as and when required.
